@@ -45,12 +45,15 @@ Click on the image below to watch a YouTube video with instructions on how to ge
 
 ![First Hallway](../Images/175-Cabot/FirstHallway.jpg)
 
+___
+
 ![Second Hallway](../Images/175-Cabot/SecondHallway.jpg)
 
 **Once you reach the third hallway, you can take the left red arrow to go up the stairs or the blue arrow to the right will bring you to the elevator. You will want to get to the fourth floor.**
 
 ![Third Hallway](../Images/175-Cabot/ThirdHallway.jpg)
 
+___
 
 ![Elevators](../Images/Elevators.jpg)
 
@@ -71,10 +74,15 @@ Click on the image below to watch a YouTube video with instructions on how to ge
 Follow the hallways as shown in the images below:
 
 ![Image](../Images/650-Suffolk/firstHallway.jpg)
+
+___
+
 ![Image](../Images/650-Suffolk/secondHallway.jpg)
 
 **Once you reach the third hallway, you can take the left red arrow to go up the stairs or the red arrow to the right will bring you to the elevator. You will want to get to the fourth floor.**
 
 ![Image](../Images/650-Suffolk/ThirdHallway.jpg)
+
+___
 
 ![Elevators](../Images/Elevators.jpg)
