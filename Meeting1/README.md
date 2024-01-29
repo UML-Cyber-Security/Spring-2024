@@ -13,6 +13,11 @@
 
 **Presentation:** 
 - Club Introductions
-- TBD
+    - What is the Cyber Security Club?
+    - What do we do? 
+    - Who we are  
+- BeEF Demo (Felix Presentation)
+    - Browser Exploitaion Framework
+    - Show examples of how it works. 
 
 
