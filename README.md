@@ -24,8 +24,8 @@ Meeting plans &amp; ideas for the Cyber Security Club for Spring 2024
 | 3/4/24 :x: | NO MEETING SPRING RECESS |(?)|(?)|
 | 3/11/24 :soon: | 6:00 - 8:00PM |(?)|(?)|
 | 3/18/24 :soon: | 6:00 - 8:00PM |(?)|(?)|
-| 3/25/24 :soon: | 6:00 - 8:00PM |(?)|(?)|
-| 4/1/24 :soon: | 6:00 - 8:00PM |(?)|(?)|
+| 3/25/24 :soon: | 6:00 - 8:00PM | 6:00-8:00PM | [Meeting 7: Proxy Chains & Cryptography](/Meeting/7/)| |
+| 4/1/24 :soon: | 6:00 - 8:00PM | 6:00 - 8:00 PM | [Meeting 8: Guest Speaker Darren - Retired FBI Special Agent](/Meeting8/)| |
 | 4/8/24 :soon: | 6:00 - 8:00PM |(?)|(?)|
 | 4/15/24 :x: | NO MEETING HOLIDAY |(?)|(?)|
 | 4/22/24 :soon: | 6:00 - 8:00PM |(?)|(?)|
