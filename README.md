@@ -22,9 +22,9 @@ Meeting plans &amp; ideas for the Cyber Security Club for Spring 2024
 | 2/19/24 :x: | NO MEETING HOLIDAY | | |
 | 2/26/24 :white_check_mark: | 6:00 - 8:00 PM | [Meeting 4: Guest Speaker Fabrizio - Dropbox](/Meeting4/)| |
 | 3/4/24 :x: | NO MEETING SPRING RECESS |(?)|(?)|
-| 3/11/24 :white_check_mark: | 6:00 - 8:00PM | [Meeting 6: Proxy Chains Part 1](/Meeting/5/)| |
+| 3/11/24 :white_check_mark: | 6:00 - 8:00PM | [Meeting X: Proxy Chains Part 1](/Meeting/5/)| |
 | 3/18/24 :white_check_mark: | 6:00 - 8:00PM | [Meeting 6: Proxy Chains Part 2 & Cryptography](/Meeting/6/)| |
-| 3/25/24 ✅: | 6:00 - 8:00PM | (?) | (?) |
+| 3/25/24 ✅: | 6:00 - 8:00PM |[Meeting 7: Ransomware in Python Overview and Scavenger Hunt Activity](/Meeting6/) | |
 | 4/1/24 ✅: | 6:00 - 8:00PM |[Meeting 8: Guest Speaker Darren - Retired FBI Special Agent](/Meeting8/)| |
 | 4/8/24 ✅: | 6:00 - 8:00PM |[Meeting 9: SQL Injection and XZ](/Meeting9/)| |
 | 4/15/24 :x: | NO MEETING HOLIDAY |(?)|(?)|
