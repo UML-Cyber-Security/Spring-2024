@@ -24,8 +24,8 @@ Meeting plans &amp; ideas for the Cyber Security Club for Spring 2024
 | 3/4/24 :x: | NO MEETING SPRING RECESS |(?)|(?)|
 | 3/11/24 :white_check_mark: | 6:00 - 8:00PM | [Meeting 6: Proxy Chains Part 1](/Meeting/5/)| |
 | 3/18/24 :white_check_mark: | 6:00 - 8:00PM | [Meeting 6: Proxy Chains Part 2 & Cryptography](/Meeting/6/)| |
-| 3/25/24 :soon: | 6:00 - 8:00PM | (?) | (?) |
-| 4/1/24 :soon: | 6:00 - 8:00PM |[Meeting 8: Guest Speaker Darren - Retired FBI Special Agent](/Meeting8/)| |
-| 4/8/24 :soon: | 6:00 - 8:00PM |(?)|(?)|
+| 3/25/24 ✅: | 6:00 - 8:00PM | (?) | (?) |
+| 4/1/24 ✅: | 6:00 - 8:00PM |[Meeting 8: Guest Speaker Darren - Retired FBI Special Agent](/Meeting8/)| |
+| 4/8/24 ✅: | 6:00 - 8:00PM |[Meeting 9: SQL Injection and XZ](/Meeting9/)| |
 | 4/15/24 :x: | NO MEETING HOLIDAY |(?)|(?)|
-| 4/22/24 :soon: | 6:00 - 8:00PM |(?)|(?)|
+| 4/22/24 :soon: | 6:00 - 8:00PM |[Meeting 10: Final Meeting of the Semester: XSS and Cookie Hijacking](/Meeting9/)| |
